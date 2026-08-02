@@ -14,8 +14,8 @@ warnings.filterwarnings("ignore")
 st.set_page_config(layout="wide")
 st.markdown("<style>.main {padding-top: 0px;}</style>", unsafe_allow_html=True)
 
-st.sidebar.image("Pic2.png", width="stretch")
-st.image("Pic1.png", width="stretch")
+st.sidebar.image("Pic2.PNG", width="stretch")
+st.image("Pic1.PNG", width="stretch")
 
 st.markdown(
     "<h1 style='text-align: center; margin-top: -20px;'>ARIMA Forecasting Model</h1>",
